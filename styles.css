@@ -1,0 +1,41 @@
+body{
+  border: solid;
+  display: flex;
+  height: content;
+}
+.leftContainer{
+  border: solid;
+  width: 33vw;
+  position: relative
+}
+.formTop{
+  width: 66vw;
+  height: 33vh;
+  border: solid;
+}
+.form{
+  border: solid;
+  width: 66vw;
+  height: 66vh;
+}
+.formBottom{
+  border: solid;
+}
+.backgroundImage{
+  width: 100%; 
+}
+.odinBackground{
+  background-color: black; 
+  opacity: 40%;
+  position: absolute;
+  top: 200px;
+  height: 140px;
+  width: 100%;
+}
+.odinImage{
+  position: absolute;
+  top: 200px;
+  left: 80px;
+  height: 140px;
+  width: 100px; 
+}
